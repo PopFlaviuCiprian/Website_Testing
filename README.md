@@ -5,4 +5,3 @@
 - pip install webdriver-manager 
 
 [![](https://markdown-videos.deta.dev/youtube/p1xi7WFR-iU)]([https://youtu.be/15grGY3ZxZo](https://youtu.be/p1xi7WFR-iU))
-
