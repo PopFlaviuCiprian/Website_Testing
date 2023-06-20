@@ -4,6 +4,5 @@
 - pip install selenium
 - pip install webdriver-manager 
 
-
-
-[![](https://markdown-videos.deta.dev/youtube/p1xi7WFR-iU)](https://youtu.be/p1xi7WFR-iU)
+# Watch the video below
+[![](https://www.howtogeek.com/wp-content/uploads/2021/06/youtube_hero_1200x675.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1)](https://youtu.be/p1xi7WFR-iU)
